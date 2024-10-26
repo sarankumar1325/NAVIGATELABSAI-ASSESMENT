@@ -35,10 +35,4 @@ To run this project, install the following Python packages:
 - `scikit-learn`
 - `kaggle` (for downloading the dataset)
 
-## Setup Instructions
 
-### 1. Set up Kaggle API
-
-1. Install the Kaggle package (if not already installed):
-   ```bash
-   pip install kaggle
